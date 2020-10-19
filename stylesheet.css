@@ -32,7 +32,7 @@ li {
 .main {
     font-size:70px;
     height:770px;
-    background-image:url(chihiro.jpeg);
+    background-image:url('chihiro.jpeg');
     background-size:cover;
 }
 .main h3 {
