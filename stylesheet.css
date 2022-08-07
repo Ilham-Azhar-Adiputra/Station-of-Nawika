@@ -41,6 +41,9 @@ li {
 .contents-item {
     float:left;
 }
+.article {
+    float:right;
+}
 .footer {
     background-color:#ceccf3;
     
